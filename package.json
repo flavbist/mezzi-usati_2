@@ -1,0 +1,17 @@
+{
+  "name": "mezziusati-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "dev": "vite"
+  }
+}
