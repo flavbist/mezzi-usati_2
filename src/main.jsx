@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Consultazione from './pages/Consultazione';
 import Gestione from './pages/Gestione';
+import App from './App.jsx;
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
